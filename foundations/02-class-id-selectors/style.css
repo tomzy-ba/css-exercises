@@ -1,0 +1,17 @@
+.n1 {
+    background-color: lightpink;
+    font-family: Verdana, Dejavu-Sans, sans-serif;
+}
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+.n3 {
+    background-color: lightpink;
+    font-size: 24px;
+}
+#n4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
